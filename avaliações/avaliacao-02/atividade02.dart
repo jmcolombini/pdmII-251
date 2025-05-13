@@ -1,4 +1,3 @@
-// Agregação e Composição
 import 'dart:convert';
 
 class Dependente {
